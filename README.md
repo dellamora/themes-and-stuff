@@ -8,7 +8,7 @@ A pink-themed color scheme for the Kitty terminal, inspired by the Neovim [noirb
 2. Place it in your Kitty themes directory, typically `~/.config/kitty/themes/.`  
 3. In your Kitty configuration file `(~/.config/kitty/kitty.conf)`, add the following line:  
 ````
-Copyinclude themes/pinkamora.conf
+include themes/pinkamora.conf
 ````
 
 4. Restart Kitty or reload its configuration by pressing Ctrl+Shift+F5 inside Kitty.
