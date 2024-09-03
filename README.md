@@ -4,9 +4,9 @@ A pink-themed color scheme for the Kitty terminal, inspired by the Neovim [noirb
 
 ## Installation
 
-1.Download the pinkamora.conf file from this repository.
-2. Place it in your Kitty themes directory, typically `~/.config/kitty/themes/.`
-3. In your Kitty configuration file `(~/.config/kitty/kitty.conf)`, add the following line:
+1.Download the pinkamora.conf file from this repository.  
+2. Place it in your Kitty themes directory, typically `~/.config/kitty/themes/.`  
+3. In your Kitty configuration file `(~/.config/kitty/kitty.conf)`, add the following line:  
 ````
 Copyinclude themes/pinkamora.conf
 ````
